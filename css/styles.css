@@ -1,104 +1,11 @@
-.blueSky {
-  background-color: #E4F9F5;
-  position: relative;
-  padding-top: 100px
-}
-
-.pro {
-  text-decoration: underline;
-}
-
-.title {
-  color: #66BFBF;
-  margin-bottom: 30px;
-}
-
-.cloud2 {
-  position: absolute;
-  left: 300px;
-  bottom: 300px
-}
-
-.cloud1 {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
 body {
-  margin: 0;
-  text-align: center;
-  font-family: 'Merriweather', serif;
+  background-color: #EAF6F6;
 }
 
-h1 {
-  line-height: 2;
-  margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
-  font-size: 562.5%;
-}
+hr {background-color: #000000;
+border-style: none;
+height: 2px;}
 
-h2 {
-  font-family: 'Montserrat', sans-serif;
-}
+h1 {color: teal;}
 
-h3 {
-  font-family: 'Montserrat', sans-serif;
-}
-.headings {
-  color: #11999E;
-}
-.footer-link {
-  color: #11999E;
-}
-.title-p {
-  font-weight: normal;
-}
-.skill-row {
-  width: 50%;
-  margin: 200px auto 200px auto;
-  text-align: left;
-  line-height: 1
-  ;
-}
-.code-pic {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-.btn {
-  background: #03f0dc;
-  background-image: -webkit-linear-gradient(top, #03f0dc, #a6eef7);
-  background-image: -moz-linear-gradient(top, #03f0dc, #a6eef7);
-  background-image: -ms-linear-gradient(top, #03f0dc, #a6eef7);
-  background-image: -o-linear-gradient(top, #03f0dc, #a6eef7);
-  background-image: linear-gradient(to bottom, #03f0dc, #a6eef7);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #00e0e0;
-  background-image: -webkit-linear-gradient(top, #00e0e0, #00cfd6);
-  background-image: -moz-linear-gradient(top, #00e0e0, #00cfd6);
-  background-image: -ms-linear-gradient(top, #00e0e0, #00cfd6);
-  background-image: -o-linear-gradient(top, #00e0e0, #00cfd6);
-  background-image: linear-gradient(to bottom, #00e0e0, #00cfd6);
-  text-decoration: none;
-}
-.bottom-container {
-  background-color: #66bfbf;
-}
-a {
-  color: #11999E
-  font-family: 'Montserrat', sans-serif;
-}
-a:hover {
-  color: #E4F9F5;
-}
+a {color: teal;}
